@@ -1,0 +1,2 @@
+|Name:- John | Reg_Number:- 20201234 | Deptt:- CS|
+|Name:- Alice | Reg_Number:- 20202345 | Deptt:- ECE|
